@@ -15,4 +15,7 @@
 
 \> electron-packager . --platform=win32
 
-This will generate a directory /angular-electron-win32-x64/ that contains the executable file.
+This will generate a directory /angular-electron-win32-x64/ that contains the executable file. 
+<br><br><br><br>
+
+> Cedits to Jeff Delaney for the tutorial coverage
